@@ -4,7 +4,7 @@
   <groupId>com.google</groupId>
   <artifactId>Devops-2025</artifactId>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>Devops-2025 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
